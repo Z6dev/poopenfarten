@@ -1,7 +1,7 @@
 # poopenfarten
 A Collection of single header libs for C written just for fun.  
-I made it in blazing speeds and no safety guarantees 😉   
-Deal with it   
+I made it in a hurry and no safety guarantees 😉   
+I named it poopenfarten (or pf for short) because my code quality is poop. (poopenfarten means poop fart in english)   
 
 **Story:**   
 I am making a game, I need simple stuff that isn't available by default in c.   
